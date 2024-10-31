@@ -11,6 +11,7 @@
 # Input: nums = [1, 2, 3, 4]
 
 # Output: false
+from typing import List
 
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
